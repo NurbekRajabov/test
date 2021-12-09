@@ -1,2 +1,2 @@
-## birinchi test
+## birinchi test salom
 
