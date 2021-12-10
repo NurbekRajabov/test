@@ -6,7 +6,7 @@ namespace console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Main branch ");
+            Console.WriteLine("Hello from remote");
 
         }
     }
