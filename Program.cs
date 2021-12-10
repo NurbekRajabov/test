@@ -6,8 +6,7 @@ namespace console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Nima gapla");
-            Console.WriteLine("Something change");
+            Console.WriteLine("Main branch ");
         }
     }
 }
