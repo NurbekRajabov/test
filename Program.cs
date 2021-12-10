@@ -6,7 +6,7 @@ namespace console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bu Nubrek Branchi");
+            Console.WriteLine("Bu Nurbek Branchi");
         }
     }
 }
